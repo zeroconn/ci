@@ -1,0 +1,23 @@
+.container{
+	background: #C2BDBC;
+}
+
+body{
+	background: #333;
+}
+
+.jumbotron{
+	background: #fff;
+	border: 2px dashed #333;
+}
+
+.table-bordered{
+	border: 3px dashed #c19797;
+}
+
+.task-description{
+	background-color: #fff;
+	padding: 20px;
+	border-radius: 6px;
+	box-shadow: 0px 0px 3px 1px;
+}

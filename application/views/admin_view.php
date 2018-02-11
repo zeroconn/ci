@@ -1,0 +1,1 @@
+<h2 class="text-muted">Admin Home Page</h2>
